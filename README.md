@@ -1,5 +1,6 @@
 
 analise-vendas-sqlite/
+
 ├── criar_banco.py 
 # Criação do banco e inserção dos dados
 
